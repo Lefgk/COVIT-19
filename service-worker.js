@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/COVIT-19/precache-manifest.0c7846aed925489b032fee5dd9053116.js"
+  "/COVIT-19/precache-manifest.5d59d166f535cfe5ad5b32b8e6f4882a.js"
 );
 
 self.addEventListener('message', (event) => {

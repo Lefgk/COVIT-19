@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53dd4b08658358f9eef087fc56a3550c",
+    "revision": "050d25e76a43476aa40ab0321fea6c32",
     "url": "/COVIT-19/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/COVIT-19/static/css/2.7f75bbe2.chunk.css"
   },
   {
-    "revision": "3795d5d1e87081546f00",
-    "url": "/COVIT-19/static/css/main.5b602efe.chunk.css"
+    "revision": "9bc5998f88f1a9a682f7",
+    "url": "/COVIT-19/static/css/main.8d220f70.chunk.css"
   },
   {
     "revision": "46765a59562a1a2a3d81",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/COVIT-19/static/js/2.09e7bc3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3795d5d1e87081546f00",
+    "revision": "9bc5998f88f1a9a682f7",
     "url": "/COVIT-19/static/js/main.4fce77b6.chunk.js"
   },
   {
