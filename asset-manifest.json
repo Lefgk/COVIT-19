@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/COVIT-19/static/css/main.d9ecd77e.chunk.css",
-    "main.js": "/COVIT-19/static/js/main.33e7d947.chunk.js",
-    "main.js.map": "/COVIT-19/static/js/main.33e7d947.chunk.js.map",
+    "main.css": "/COVIT-19/static/css/main.5b602efe.chunk.css",
+    "main.js": "/COVIT-19/static/js/main.4fce77b6.chunk.js",
+    "main.js.map": "/COVIT-19/static/js/main.4fce77b6.chunk.js.map",
     "runtime-main.js": "/COVIT-19/static/js/runtime-main.d60b67ee.js",
     "runtime-main.js.map": "/COVIT-19/static/js/runtime-main.d60b67ee.js.map",
     "static/css/2.7f75bbe2.chunk.css": "/COVIT-19/static/css/2.7f75bbe2.chunk.css",
     "static/js/2.09e7bc3b.chunk.js": "/COVIT-19/static/js/2.09e7bc3b.chunk.js",
     "static/js/2.09e7bc3b.chunk.js.map": "/COVIT-19/static/js/2.09e7bc3b.chunk.js.map",
     "index.html": "/COVIT-19/index.html",
-    "precache-manifest.5aac21d0f49a3aafeeedda240b610fdf.js": "/COVIT-19/precache-manifest.5aac21d0f49a3aafeeedda240b610fdf.js",
+    "precache-manifest.0c7846aed925489b032fee5dd9053116.js": "/COVIT-19/precache-manifest.0c7846aed925489b032fee5dd9053116.js",
     "service-worker.js": "/COVIT-19/service-worker.js",
     "static/css/2.7f75bbe2.chunk.css.map": "/COVIT-19/static/css/2.7f75bbe2.chunk.css.map",
-    "static/css/main.d9ecd77e.chunk.css.map": "/COVIT-19/static/css/main.d9ecd77e.chunk.css.map",
+    "static/css/main.5b602efe.chunk.css.map": "/COVIT-19/static/css/main.5b602efe.chunk.css.map",
     "static/js/2.09e7bc3b.chunk.js.LICENSE.txt": "/COVIT-19/static/js/2.09e7bc3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d60b67ee.js",
     "static/css/2.7f75bbe2.chunk.css",
     "static/js/2.09e7bc3b.chunk.js",
-    "static/css/main.d9ecd77e.chunk.css",
-    "static/js/main.33e7d947.chunk.js"
+    "static/css/main.5b602efe.chunk.css",
+    "static/js/main.4fce77b6.chunk.js"
   ]
 }
