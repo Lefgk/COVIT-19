@@ -10,20 +10,21 @@ class Border extends React.Component {
   render() {
     return (
       <div id="bordertext">
-        <div id="borderleft">
-          Cases<br></br>
-          <span id="box_total_confirmed">
-            {this.props.loading ? null : this.props.total_confirmed}
-          </span>
-        </div>
+        <div id="biginfo">
+          <div id="borderleft">
+            Cases<br></br>
+            <span id="box_total_confirmed">
+              {this.props.loading ? null : this.props.total_confirmed}
+            </span>
+          </div>
 
-        <div id="borderight">
-          Deaths<br></br>
-          <span id="box_total_deathS">
-            {this.props.loading ? null : this.props.total_death}
-          </span>
+          <div id="borderight">
+            Deaths<br></br>
+            <span id="box_total_deathS">
+              {this.props.loading ? null : this.props.total_death}
+            </span>
+          </div>
         </div>
-
         {this.props.tabledata.sort(this.Comparator).map((value, key) => (
           <div id="itemsinborder">
             <div id="flags">

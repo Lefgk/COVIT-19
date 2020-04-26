@@ -67,7 +67,7 @@ body {
   align-items: center;
   position: relative;
   height: 84vh;
-  width: 85%;
+  width: auto;
   overflow: hidden;
   background-color: #333;
 }
@@ -80,7 +80,7 @@ body {
   line-height: 38px;
   position: relative;
   top: 0;
-  width: 100px;
+  width: auto;
   text-align: left;
   font-size: 12px;
 }
@@ -116,12 +116,12 @@ body {
 #itemsinborder {
   background-color: #444;
   border-bottom: 1px solid #333;
-  box-sizing: border-box;
+
   color: #999;
   cursor: default;
   height: 42px;
   line-height: 42px;
-  outline: none;
+
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -195,7 +195,7 @@ text {
   background-color: #333;
   overflow-y: scroll;
   float: left;
-  width: 15%;
+  min-width: 250px;
   position: relative;
   height: 100%;
   box-sizing: border-box;
@@ -273,7 +273,7 @@ h3 {
 
 #borderleft {
   float: left;
-  width: 135px;
+  width: 50%;
   position: relative;
   height: 120px;
   text-transform: uppercase;
@@ -290,7 +290,7 @@ h3 {
 
 #borderight {
   float: right;
-  width: 136px;
+  width: 50%;
   position: relative;
   height: 120px;
   text-transform: uppercase;
@@ -305,8 +305,14 @@ h3 {
   right: 0;
 }
 
+#biginfo {
+  display: flex;
+  flex-direction: row;
+}
+
 #box_total_confirmed {
   color: orange;
+  width: auto;
   font-size: 30px;
 
   font-family: "Roboto Condensed", sans-serif;
@@ -315,6 +321,7 @@ h3 {
 #box_total_deathS {
   color: #ff7979;
   font-size: 30px;
+
   font-family: "Roboto Condensed", sans-serif;
 }
 
